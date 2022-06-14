@@ -1,0 +1,8 @@
+Material    : FR-4 TG130
+Layers      : 2
+Thickness   : 1.6mm
+Solder Mask : Green
+Silkscreen  : White
+Finish      : HASL/ENIG
+Vias        : Tenting vias
+Copper      : 1 oz. (All layers) 
