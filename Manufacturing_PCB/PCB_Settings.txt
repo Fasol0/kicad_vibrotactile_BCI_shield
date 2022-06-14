@@ -6,3 +6,5 @@ Silkscreen  : White
 Finish      : HASL/ENIG
 Vias        : Tenting vias
 Copper      : 1 oz. (All layers) 
+
+Dimensions: 99.06mm x 53.34mm
