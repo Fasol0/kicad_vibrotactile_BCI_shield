@@ -1,7 +1,49 @@
-Updates from previous version:
+Printed Circuit board (PCB) settings:
+
+Dimensions  : 99.06mm x 53.34mm
+Material    : FR-4 TG130
+Layers      : 2
+Thickness   : 1.6mm
+Solder Mask : Green
+Silkscreen  : White
+Finish      : HASL/ENIG
+Vias        : Tenting vias
+Copper      : 1 oz. (All layers) 
+
+List of some manufacturers:
+- PCBGoGo
+- UET PCB
+- SeeedStudio
+- JLCPCB
+
+HOW TO ORDER:
+
+Go to one of these manufacturers website, then:
+
+OPTION 1 - FULL ASSEMBLED BOARD (PCBA):
+
+- Select PCBA (PCB + Assembly) option
+- Fill PCB settings
+- upload Manufacturing_PCBA.zip
+
+
+OPTION 2 - PCB Only, hand soldering:
+
+- Select PCB option
+- Fill PCB settings
+- upload Manufacturing_PCB.zip
+- buy all components in the BOM_PartType-Vibrotactile BCI shield.xlsx file
+
+these components can be bought from several distributors:
+Farnell, RScomponents, Digikey, Mouser, Arrow..
+
+
+/////////////////////////////////////////////////////////
+
+Updates from initial version:
 
 - Changed software from Altium to Kicad (ver. 6), the reference software used by CNRS (free and open source).
-- PCB dimensions reduced to 99.00 x 53.34mm. Reducing PCB under a length of 100 mm highly reduces PCB costs for most manufacturers
+- PCB dimensions reduced to 99.00 x 53.34mm.
 - obsolete MOSFET BS170G replaced by BS170
 - Motor connectors reference replaced to 282834-2 (smaller footprint, and higher availability)
 - Resistors R1 to R12 changed from 6.8 Ohm to 24 Ohm
