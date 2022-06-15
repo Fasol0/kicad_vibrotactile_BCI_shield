@@ -1,14 +1,14 @@
 Printed Circuit board (PCB) settings:
 
-Dimensions  : 99.06mm x 53.34mm
-Material    : FR-4 TG130
-Layers      : 2
-Thickness   : 1.6mm
-Solder Mask : Green
-Silkscreen  : White
-Finish      : HASL/ENIG
-Vias        : Tenting vias
-Copper      : 1 oz. (All layers) 
+- Dimensions  : 99.06mm x 53.34mm
+- Material    : FR-4 TG130
+- Layers      : 2
+- Thickness   : 1.6mm
+- Solder Mask : Green
+- Silkscreen  : White
+- Finish      : HASL/ENIG
+- Vias        : Tenting vias
+- Copper      : 1 oz. (All layers) 
 
 List of some manufacturers:
 - PCBGoGo
@@ -77,12 +77,12 @@ However these motors have higher price (2.32€ vs 1.07€ for the 3.7V version)
 Note 2:
 N-MOSFETs are often facing shortages. 
 if BS170 is not available, it can be replaced by one of these references:
-2N7000
-BS270
-VN2106N3-G
-VN10KN3-G
-2N7008-G
-TN2106N3-G
-TN5325N3-G
-ZVN2110A
+- 2N7000
+- BS270
+- VN2106N3-G
+- VN10KN3-G
+- 2N7008-G
+- TN2106N3-G
+- TN5325N3-G
+- ZVN2110A
 
