@@ -1,4 +1,4 @@
-![Vibrotactile BCI Shield](/repository/vibrotactile_BCI_shield_top2.jpg?raw=true "Vibrotactile BCI Shield")
+![Vibrotactile BCI Shield](/vibrotactile_BCI_shield_top2.jpg?raw=true "Vibrotactile BCI Shield")
 
 ## Printed Circuit board (PCB) settings:
 
