@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "(6.0.5)"
     },
-    "CreationDate": "2022-06-14T18:07:34+02:00"
+    "CreationDate": "2022-06-20T15:17:27+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -51,6 +51,21 @@
     {
       "Path": "vibrotactile_BCI_shield-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "vibrotactile_BCI_shield-F_Mask.gbr",
+      "FileFunction": "SolderMask,Top",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "vibrotactile_BCI_shield-B_Mask.gbr",
+      "FileFunction": "SolderMask,Bot",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "vibrotactile_BCI_shield-Edge_Cuts.gbr",
+      "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
   ],
