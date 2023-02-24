@@ -72,8 +72,8 @@ However these motors have higher price (2.32€ vs 1.07€ for the 3.7V version)
 
 ## Updates from initial version:
 
-- Changed software from Altium to Kicad (ver. 6), the reference software used by CNRS (free and open source).
-- PCB dimensions reduced to 99.00 x 53.34mm.
+- Changed software from Altium to Kicad (ver. 6)
+- PCB dimensions reduced to 99.00 x 53.34mm
 - obsolete MOSFET BS170G replaced by BS170
 - Motor connectors reference replaced to 282834-2 (smaller footprint, and higher availability)
 - Resistors R1 to R12 changed from 6.8 Ohm to 24 Ohm
